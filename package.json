@@ -1,0 +1,23 @@
+{
+    "name": "petapi",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/uthpalaj/PetAPI.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/uthpalaj/PetAPI/issues"
+    },
+    "devDependencies": {
+      "typescript": "^4.6.2"
+    },
+    "homepage": "https://github.com/uthpalaj/PetAPI#readme"
+  }
+  
